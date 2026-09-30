@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493060028509",
+    "project_id": "yellow-rabbit-9c0fb",
+    "storage_bucket": "yellow-rabbit-9c0fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493060028509:android:a7d552341306f9069c35b4",
+        "android_client_info": {
+          "package_name": "ca.rabbit.white"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwSKbUCYe_lVfbtQQgcHLSvQAjMBd_jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

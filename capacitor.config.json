@@ -1,0 +1,10 @@
+{
+  "appId": "ca.rabbit.white",
+  "appName": "white-rabbit",
+  "webDir": "dist",
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}

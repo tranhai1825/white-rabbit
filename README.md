@@ -32,6 +32,7 @@ adb install android/app/build/outputs/apk/debug/app-debug.apk
 
 Log in Firebase, create a project `yellow-rabbit`
 Add an Android app, and an iOS app (app id = <what you have in capacitor config>)
+Download `google-services.json` and save to `android/app/`
 
 Go to [FCM](https://console.firebase.google.com/project/yellow-rabbit-9c0fb/messaging)
 Create a new campaign, and enter some app-notification (not in-app) message contents and Send

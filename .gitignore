@@ -1,6 +1,7 @@
 logs
 
-android/app/google-services.json
+android/app/google-services--use-values-in-here.json
+android/app/google-services--use-values-in-here.json
 node_modules
 dist
 *.local
